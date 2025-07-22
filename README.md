@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kabiatravels/kabiatravels/blob/main/Kabia_Travels_Logo.jpg" alt="Logo" width="250" height="250" />
+</p>
+
 # 🌍 Kabia Travels
 ### <i>Embark on a journey with Kabia Travels, where every destination is a new adventure waiting to be discovered.</i>
 
